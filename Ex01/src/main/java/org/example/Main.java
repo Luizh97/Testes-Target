@@ -9,6 +9,7 @@ public class Main {
          }
         System.out.println(soma);
     }
+    //Valor da soma impresso = 49
 }
 
 //        int INDICE = 13, SOMA = 0, K = 0;
